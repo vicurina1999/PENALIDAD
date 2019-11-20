@@ -1,0 +1,56 @@
+.border1{
+    background-color: rgb(206, 238, 62);
+    height: 2rem;
+    width: 60rem;
+    border-radius: 2rem;
+}
+
+.border2{
+    background-color: rgb(206, 238, 62);
+    height: 2rem;
+    width: auto;
+    border-radius: 2rem;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: space-between;
+}
+
+.border3{
+    background-color: rgb(206, 238, 62);
+    height: 2rem;
+    width: auto;
+    border-radius: 2rem;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.textoseparado{
+    display: flex;
+    justify-content: space-between;
+}
+
+.section1{
+    display: flex;
+}
+
+section{
+    padding: auto;
+}
+
+.foto{
+    width: 15rem;
+    height: 15rem;
+    border-radius: 15rem;
+    align-content: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.imagenlogo{
+   height: 2rem;
+   width: 2rem;
+}
